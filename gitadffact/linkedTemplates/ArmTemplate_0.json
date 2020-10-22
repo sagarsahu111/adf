@@ -59,8 +59,8 @@
 				"type": "AzureSqlTable",
 				"schema": [],
 				"typeProperties": {
-					"schema": "SalesLT",
-					"table": "Customer"
+					"schema": "dbo",
+					"table": "books"
 				}
 			},
 			"dependsOn": [
